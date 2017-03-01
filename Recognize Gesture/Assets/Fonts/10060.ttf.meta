@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d3f32e80446df7748a7e5a17c61abd66
+timeCreated: 1487671784
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MarkerFeltWide-Plain
+  fontNames:
+  - MarkerFeltWide-Plain
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
